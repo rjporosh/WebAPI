@@ -109,6 +109,8 @@ C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiI
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csprojAssemblyReference.cache
+C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.csproj.CopyComplete
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.dll
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Debug\Mvc.pdb

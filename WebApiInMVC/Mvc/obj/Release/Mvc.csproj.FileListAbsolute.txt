@@ -54,4 +54,6 @@ C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiI
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Release\Mvc.dll
 C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Release\Mvc.pdb
-C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Release\Mvc.csprojResolveAssemblyReference.cache
+C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Release\Mvc.csprojAssemblyReference.cache
+C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Release\Mvc.csproj.CoreCompileInputs.cache
+C:\Users\Prince_Porosh\Documents\Visual Studio 2015\Projects\WebApiInMVC\WebApiInMVC\Mvc\obj\Release\Mvc.csproj.CopyComplete

@@ -8,6 +8,7 @@
     <WebStackScaffolding_DbContextTypeFullName>WebApi.Models.DBModel</WebStackScaffolding_DbContextTypeFullName>
     <NameOfLastUsedPublishProfile>RjPoroshWebApi</NameOfLastUsedPublishProfile>
     <UseIISExpress>true</UseIISExpress>
+    <LastActiveSolutionConfig>Debug|Any CPU</LastActiveSolutionConfig>
   </PropertyGroup>
   <ProjectExtensions>
     <VisualStudio>
